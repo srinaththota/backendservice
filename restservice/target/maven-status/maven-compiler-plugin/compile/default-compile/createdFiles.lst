@@ -1,0 +1,4 @@
+controller\ContainerClass.class
+restservice\restservice\RestserviceApplication.class
+service\JsonFetch.class
+service\JsonFetchImpl.class
